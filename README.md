@@ -5,9 +5,8 @@ This software uses Python to display a random message to say hello to the world!
 
 This software was created so I could practice using python to do simple tasks in my Development Environment.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/IMEoUEVQWUs)
 
 # Development Environment
 
